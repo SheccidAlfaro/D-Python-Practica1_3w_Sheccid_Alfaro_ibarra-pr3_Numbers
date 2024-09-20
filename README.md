@@ -2,7 +2,7 @@
 practica #3 se enseña el tipo de variable
 
 print("")
-print("Sheccid Alfaro Ibarra 3W")
+print("Alfaro Ibarra Sheccid 3W")
 x = (1)#definir variable x
 y = (2.1)#definir variable y
 z=(1,) #definir variable z
@@ -14,4 +14,5 @@ print(type(z))#mostrar en pantalla el tipo de variable
 print("")
 
 
-![image](https://github.com/user-attachments/assets/8cadbbce-471a-483e-8629-36869a2fcc5e)
+![image](https://github.com/user-attachments/assets/6abc99fc-f79e-460b-b84c-dc38c83784f3)
+
